@@ -17,7 +17,7 @@ and work across the stack with MongoDB, REST APIs and AWS. Lately I work **AI-fi
 Spec-Driven Development and build the tooling that lets coding agents review, test and ship with us.
 
 - 🏢 Software Engineer at **[Neostella](https://www.neostella.com)** — previously Developer at **GHT** (2021–2025)
-- 🚀 Built the frontend of an enterprise SaaS platform from zero to production, now serving **300+ clients**
+- 🚀 Built the frontend of an enterprise SaaS platform from zero to production
 - 🤖 Co-built an AI orchestration harness (a Claude Code plugin) so every PR is checked for quality,
   **WCAG 2.2 AA** accessibility and fit with its ticket before a human reviews it
 - 🧭 Led my team's move to React and set the architecture and standards it still follows
