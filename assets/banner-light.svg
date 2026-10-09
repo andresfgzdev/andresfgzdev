@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-label="Andres Gallego — Frontend engineer building AI tooling for coding agents">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-label="Andres Gallego — Software engineer building AI tooling for coding agents">
   <defs>
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="rgba(22,22,29,0.09)"/></pattern>
     <radialGradient id="orb" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#5B47FB" stop-opacity="0.55"/><stop offset="1" stop-color="#5B47FB" stop-opacity="0"/></radialGradient>
@@ -32,8 +32,8 @@
       <text x="98" y="78" class="m" font-size="13" fill="#5B47FB">@andresfgzdev</text>
     </g>
     <text x="62" y="152" class="t rise d1" font-size="58" font-weight="650" letter-spacing="-2.3" fill="#16161D">Andres Gallego</text>
-    <text x="64" y="196" class="t rise d2" font-size="22" letter-spacing="-0.4" fill="#62626D">Frontend engineer · React, Next.js &amp; TypeScript ·
-      <tspan fill="#5B47FB" font-weight="600">AI-native workflows</tspan></text>
+    <text x="64" y="196" class="t rise d2" font-size="22" letter-spacing="-0.4" fill="#62626D">Software engineer · 6+ yrs · React, Next.js &amp; Node.js ·
+      <tspan fill="#5B47FB" font-weight="600">AI tooling</tspan></text>
 
     <g class="rise d3">
       <rect x="64" y="226" width="436" height="44" rx="12" fill="#13131F"/>

@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img alt="Andres Gallego — Frontend engineer building AI tooling for coding agents" src="./assets/banner-light.svg" width="100%">
+  <img alt="Andres Gallego — Software engineer building AI tooling for coding agents" src="./assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -11,9 +11,17 @@
 
 ### Hey, I'm Andres 👋
 
-Frontend engineer at **GHT** who cares about the details: instant navigation, honest motion and
-Lighthouse 100s. Lately I work **AI-first** — I write the spec, coding agents (Claude Code) turn it
-into code, visual checks and docs, and I review every line before it ships.
+Software engineer from **Medellín, Colombia 🇨🇴** with **6+ years** shipping production SaaS with React,
+Next.js, TypeScript and Node.js. I own frontends end to end — architecture, design systems, dashboards —
+and work across the stack with MongoDB, REST APIs and AWS. Lately I work **AI-first**: I plan with
+Spec-Driven Development and build the tooling that lets coding agents review, test and ship with us.
+
+- 🏢 Software Engineer at **[Neostella](https://www.neostella.com)** — previously Developer at **GHT** (2021–2025)
+- 🚀 Built the frontend of an enterprise SaaS platform from zero to production, now serving **300+ clients**
+- 🤖 Co-built an AI orchestration harness (a Claude Code plugin) so every PR is checked for quality,
+  **WCAG 2.2 AA** accessibility and fit with its ticket before a human reviews it
+- 🧭 Led my team's move to React and set the architecture and standards it still follows
+- 💬 Spanish & English — I work in English every day with distributed teams
 
 ### 🛠️ What I'm building
 
@@ -27,7 +35,7 @@ into code, visual checks and docs, and I review every line before it ships.
 ### ⚡ Stack
 
 <p>
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,threejs,nodejs,vitest,pnpm,vercel,git,figma&perline=12">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,nodejs,mongodb,aws,terraform,jest,threejs,git&perline=13">
 </p>
 
 ### 🐍 Contributions
