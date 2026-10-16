@@ -38,8 +38,8 @@
     <g class="rise d3">
       <rect x="64" y="226" width="436" height="44" rx="12" fill="#13131F"/>
       <text x="84" y="254" class="m" font-size="15" fill="#8B8B96">$</text>
-      <text x="102" y="254" class="m" font-size="15" fill="#E8E8F0">building specs → code → shipped<tspan fill="#B4A7FF"> with agents</tspan></text>
-      <rect class="caret" x="468" y="240" width="9" height="18" rx="1" fill="#B4A7FF"/>
+      <text x="102" y="254" class="m" font-size="15" fill="#E8E8F0">building specs → code → tested<tspan fill="#B4A7FF"> with agents</tspan></text>
+      <rect class="caret" x="459" y="240" width="9" height="18" rx="1" fill="#B4A7FF"/>
     </g>
 
     <g transform="translate(920 64)"><g class="rise d4">

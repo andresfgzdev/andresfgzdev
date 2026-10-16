@@ -6,31 +6,25 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/afgallegoz2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-16161D?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:afgallegoz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-afgallegoz%40gmail.com-16161D?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://appa-queso-bike.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Latest_ship-Appa_%26_Queso_Bike-5B47FB?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ### Hey, I'm Andres 👋
 
-Software engineer from **Medellín, Colombia 🇨🇴** with **6+ years** shipping production SaaS with React,
-Next.js, TypeScript and Node.js. I own frontends end to end — architecture, design systems, dashboards —
-and work across the stack with MongoDB, REST APIs and AWS. Lately I work **AI-first**: I plan with
-Spec-Driven Development and build the tooling that lets coding agents review, test and ship with us.
+I'm a software engineer from **Medellín, Colombia 🇨🇴**. For the last 6+ years I've built web apps with React, Next.js, TypeScript and Node.js. I mostly work on the frontend: architecture, design systems and dashboards.
 
-- 🏢 Software Engineer at **[Neostella](https://www.neostella.com)** — previously Developer at **GHT** (2021–2025)
-- 🚀 Built the frontend of an enterprise SaaS platform from zero to production
-- 🤖 Co-built an AI orchestration harness (a Claude Code plugin) so every PR is checked for quality,
-  **WCAG 2.2 AA** accessibility and fit with its ticket before a human reviews it
-- 🧭 Led my team's move to React and set the architecture and standards it still follows
-- 💬 Spanish & English — I work in English every day with distributed teams
+Lately I've been working with AI coding agents. I write the spec first, and I build skills that help agents understand, review and organise code.
 
-### 🛠️ What I'm building
+### 📌 Pinned projects
 
 | | Project | What it is |
 |:-:|---|---|
-| 🚲 | **[Appa & Queso Bike](https://github.com/andresfgzdev/appa-queso-bike)** · [live](https://appa-queso-bike.vercel.app) | A cinematic, endless 3D bike ride on a SoCal beach at golden hour, starring my two cats. Built end-to-end with an AI-native workflow. |
-| ✅ | **[Better Tasks](https://github.com/andresfgzdev/manage-my-tasks)** · [live](https://manage-my-tasks.vercel.app) | Task manager with Clerk auth, built for individual and team productivity. |
-| 🧩 | **[LeetCode Challenges](https://github.com/andresfgzdev/leetcode-challenges)** | Solutions in JavaScript with tests and notes — a public log of daily practice. |
-| 🧪 | **Portfolio + AI Lab** · *coming soon* | Next.js 16, React 19 View Transitions, MDX — and the skills, commands and harnesses I build for coding agents. |
+| 🗺️ | **[explain-it](https://github.com/andresfgzdev/explain-it)** | Explains how a feature or a multi-system flow works, in plain technical English, with a diagram of the whole system. A skill for Claude Code and other agents. |
+| 🌳 | **[tidy-tree](https://github.com/andresfgzdev/tidy-tree)** | Finds and fixes where code lives in JS/TS repos (grab-bag files, duplicates, misplaced files), following each project's own architecture. |
+| 🚲 | **[Appa & Queso Bike](https://github.com/andresfgzdev/appa-queso-bike)** · [live](https://appa-queso-bike.vercel.app) | An endless 3D bike ride on a SoCal beach at golden hour, starring my two cats. |
+| ✅ | **[Better Tasks](https://github.com/andresfgzdev/manage-my-tasks)** · [live](https://manage-my-tasks.vercel.app) | A task manager with Clerk auth, for personal and team work. |
+| 🧩 | **[LeetCode Challenges](https://github.com/andresfgzdev/leetcode-challenges)** | Daily practice in JavaScript, with tests and notes. |
+
+Both skills install together in Claude Code with `/plugin marketplace add andresfgzdev/skills`.
 
 ### ⚡ Stack
 
